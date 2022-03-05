@@ -83,6 +83,6 @@ $(document).ready(function() {
     var bg = $('.bg');
     bg.hover(function(){
        $(this).fadeOut(5000) 
-    alert('00')
+   
     })
 });
