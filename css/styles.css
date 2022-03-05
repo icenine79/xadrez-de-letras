@@ -11578,5 +11578,5 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 .bg:hover{
-  display: none;
+  display: hidden;
 }
