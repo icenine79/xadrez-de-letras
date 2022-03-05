@@ -11577,6 +11577,6 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 }
-#about:hover{
+.bg:hover{
   display: none;
 }
