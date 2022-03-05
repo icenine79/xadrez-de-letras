@@ -78,3 +78,10 @@ function fadeIn(el, display) {
         }
     })();
 };
+
+$(document).ready(function() {
+    var about = $('#about');
+    about.on('hover',function(){
+        $(this).fadeOut();
+    })
+});
