@@ -11576,7 +11576,5 @@ footer.footer .social-link:hover {
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-}
-.bg:hover{
-  display: hidden;
+opacity:0.5
 }

@@ -80,7 +80,7 @@ function fadeIn(el, display) {
 };
 
 $(document).ready(function() {
-    var bg = $('.bg');
+    var bg = $('.dot');
     bg.hover(function(){
        $(this).fadeOut(5000) 
    
